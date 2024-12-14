@@ -2,6 +2,8 @@
 
 - Primary Technologies
 
-  Frontend: React.js, HTML, CSS
-  Backend: Express.js, Node.js
+  # Frontend:
+  - React.js, HTML, CSS
+  # Backend:
+  - Express.js, Node.js
 
