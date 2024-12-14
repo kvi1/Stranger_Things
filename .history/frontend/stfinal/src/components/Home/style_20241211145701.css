@@ -77,7 +77,7 @@ header ul li:hover::after {
     inset: 0;
     overflow: hidden;
     opacity: 0;
-    transition: opacity .5s, z-index 0s .5s;
+    transition: opacity .5s, z-index 0s .5s; /* Ensure z-index changes after opacity transition */
 }
 
 .slider .list .item img {
