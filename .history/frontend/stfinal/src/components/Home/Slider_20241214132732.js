@@ -54,7 +54,7 @@ const Slider = () => {
 
   const handlePrev = () => {
     setActiveIndex((prevIndex) =>
-      prevIndex - 1 < 0 ? slides.length-1 : prevIndex - 1
+      prevIndex - 1 < 0 ? slides.length - 1 : prevIndex - 1
     );
   };
 
