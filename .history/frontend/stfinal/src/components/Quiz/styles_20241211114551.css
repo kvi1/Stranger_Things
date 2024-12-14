@@ -1,0 +1,9 @@
+.quiz {
+  background-image: url('./bd.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh; 
+  filter: brightness(0.5);
+}
+
+  

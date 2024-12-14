@@ -1,0 +1,8 @@
+.quiz {
+  background-image: url('./bd.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh; /* Ensure the container has height */
+}
+
+  
